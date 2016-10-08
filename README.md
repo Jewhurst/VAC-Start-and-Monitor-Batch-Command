@@ -6,6 +6,6 @@ What I did was add this to my startup folder so when I boot my pc, it runs autom
 
 Windows start up location is typically C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp, otherwise just use google
 
-# You can download [Virtual Audio Cable](http://software.muzychenko.net/eng/vac.htm) and set it up with [this video](https://youtu.be/jw6YAoai8fQ?t=19m27s)
+## You can download [Virtual Audio Cable](http://software.muzychenko.net/eng/vac.htm) and set it up with [this video](https://youtu.be/jw6YAoai8fQ?t=19m27s)
 
 Thank you to the VAC guys, and thanks to Jack Frags for turning me onto it and setting it up!
